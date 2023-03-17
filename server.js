@@ -1,5 +1,5 @@
-const username = process.env.WEB_USERNAME || "123qwe";
-const password = process.env.WEB_PASSWORD || "123qwe";
+const username = process.env.WEB_USERNAME || "qwe";
+const password = process.env.WEB_PASSWORD || "qweasdzxc";
 const url = process.env.RENDER_EXTERNAL_URL;
 const port = process.env.PORT || 3000;
 const express = require("express");
